@@ -6,6 +6,8 @@ This repository contains sample code that aims to demonstrate how to inject cust
 
 > The sample can be used only with SpreadsheetWeb Server Packages - must have an active [server license](https://www.spreadsheetweb.com/server-pricing/).
 
+> For versions before 6.15
+
 > You will also need to have an active Authorize.Net account in order to request access to their web service. 
 
 ## Download
